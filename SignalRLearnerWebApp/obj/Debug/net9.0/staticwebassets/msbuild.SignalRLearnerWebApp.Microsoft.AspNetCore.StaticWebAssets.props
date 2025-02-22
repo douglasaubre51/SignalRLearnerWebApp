@@ -84,8 +84,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1ib13m9no0</Fingerprint>
-      <Integrity>eTsfsGs/18kkus95KufTkpYfSfyQZffVZqqo+/iQ0RQ=</Integrity>
+      <Fingerprint>w3zxseoukn</Fingerprint>
+      <Integrity>/MM/QBbmhBglGd2dLWAJgS4HaQNt36rjnR/wuEulLwE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\usersCount.js'))</OriginalItemSpec>

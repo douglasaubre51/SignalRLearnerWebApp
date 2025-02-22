@@ -48,17 +48,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xtxxf3hu2r"},{"Name":"integrity","Value":"sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="},{"Name":"label","Value":"_content/SignalRLearnerWebApp/js/site.js"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"231"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Feb 2025 15:46:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SignalRLearnerWebApp/js/usersCount.1ib13m9no0.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\usersCount.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1ib13m9no0"},{"Name":"integrity","Value":"sha256-eTsfsGs/18kkus95KufTkpYfSfyQZffVZqqo\u002B/iQ0RQ="},{"Name":"label","Value":"_content/SignalRLearnerWebApp/js/usersCount.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"760"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022eTsfsGs/18kkus95KufTkpYfSfyQZffVZqqo\u002B/iQ0RQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Feb 2025 16:37:19 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SignalRLearnerWebApp/js/usersCount.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\usersCount.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eTsfsGs/18kkus95KufTkpYfSfyQZffVZqqo\u002B/iQ0RQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"760"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022eTsfsGs/18kkus95KufTkpYfSfyQZffVZqqo\u002B/iQ0RQ=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Feb 2025 16:37:19 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/MM/QBbmhBglGd2dLWAJgS4HaQNt36rjnR/wuEulLwE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1046"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/MM/QBbmhBglGd2dLWAJgS4HaQNt36rjnR/wuEulLwE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Feb 2025 17:09:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SignalRLearnerWebApp/js/usersCount.w3zxseoukn.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\usersCount.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w3zxseoukn"},{"Name":"integrity","Value":"sha256-/MM/QBbmhBglGd2dLWAJgS4HaQNt36rjnR/wuEulLwE="},{"Name":"label","Value":"_content/SignalRLearnerWebApp/js/usersCount.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1046"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/MM/QBbmhBglGd2dLWAJgS4HaQNt36rjnR/wuEulLwE=\u0022"},{"Name":"Last-Modified","Value":"Sat, 22 Feb 2025 17:09:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SignalRLearnerWebApp/lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

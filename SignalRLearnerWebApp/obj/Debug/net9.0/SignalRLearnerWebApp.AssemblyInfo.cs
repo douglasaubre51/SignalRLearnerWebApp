@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalRLearnerWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42325e5edefcb87d795890d9f1b03831f3295888")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalRLearnerWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalRLearnerWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

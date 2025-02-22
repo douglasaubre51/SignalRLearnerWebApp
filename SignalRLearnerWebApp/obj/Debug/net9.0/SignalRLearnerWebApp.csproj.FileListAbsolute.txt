@@ -281,4 +281,5 @@ E:\WORKSPACE\Projects\workbench\Learning\SignalRLearnerWebApp\SignalRLearnerWebA
 E:\WORKSPACE\Projects\workbench\Learning\SignalRLearnerWebApp\SignalRLearnerWebApp\obj\Debug\net9.0\SignalRLearnerWebApp.pdb
 E:\WORKSPACE\Projects\workbench\Learning\SignalRLearnerWebApp\SignalRLearnerWebApp\obj\Debug\net9.0\SignalRLearnerWebApp.genruntimeconfig.cache
 E:\WORKSPACE\Projects\workbench\Learning\SignalRLearnerWebApp\SignalRLearnerWebApp\obj\Debug\net9.0\ref\SignalRLearnerWebApp.dll
-E:\WORKSPACE\Projects\workbench\Learning\SignalRLearnerWebApp\SignalRLearnerWebApp\obj\Debug\net9.0\compressed\vpenko8lnn-1ib13m9no0.gz
+E:\WORKSPACE\Projects\workbench\Learning\SignalRLearnerWebApp\SignalRLearnerWebApp\obj\Debug\net9.0\SignalRLearnerWebApp.sourcelink.json
+E:\WORKSPACE\Projects\workbench\Learning\SignalRLearnerWebApp\SignalRLearnerWebApp\obj\Debug\net9.0\compressed\vpenko8lnn-w3zxseoukn.gz
